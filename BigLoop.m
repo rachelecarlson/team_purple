@@ -5,7 +5,7 @@ disp('Instructions: In each round, two colored grids will be displayed (one afte
 answer_vector = [ ];
 groundtruth = [ ]; %keeping track of whether the grid is disharmonious or harmonious
 samedifferent = [ ]; %keeping track of whether the grid was the same or different in the trial
-while counter <=2
+while counter <=5 %%the program will run for 5 rounds 
     blankMat = zeros(150);
     imshow(uint8(blankMat))
     pause(3)
