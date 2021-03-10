@@ -7,3 +7,5 @@ Mimicking the original experiment, our program first randomly displays either a 
 
 “BigLoop.m” is the main script that contains all of the tasks we stated.
 The other scripts, “harmoniousGrid.m, DisharmoniousGrid.m, harmoniousgridfunkyLego.m, DisharmoniousFunkyLego.m were our building blocks for the experiment; in “BigLoop.m”, we combined them in a way that created a fluid experiment.
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/79762353/110710441-da8dc380-81cb-11eb-88a3-775aca7b86d0.gif)
